@@ -5295,3 +5295,26 @@ body {
   color: #767676;
   text-align: left;
 }
+.cid-rklcBqVJdH {
+  background: #ffffff;
+}
+.cid-rklcBqVJdH .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rklcBqVJdH .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rklcBqVJdH figcaption {
+  position: relative;
+}
+.cid-rklcBqVJdH figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rklcBqVJdH .image-block {
+    width: 100% !important;
+  }
+}
