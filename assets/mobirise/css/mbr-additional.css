@@ -5815,3 +5815,24 @@ body {
     width: 100% !important;
   }
 }
+.cid-rlbU7qiKtL {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rlbU7qiKtL .image-block {
+  margin: auto;
+}
+.cid-rlbU7qiKtL figcaption {
+  position: relative;
+}
+.cid-rlbU7qiKtL figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rlbU7qiKtL .image-block {
+    width: 100% !important;
+  }
+}
